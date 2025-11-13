@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Python 3
-- 🤔 I’m looking for help with Docker/Kubernetes
+- 🌱 I’m currently learning Microsoft Azure (CosmosDB)
 - 📫 How to reach me: webmaster@ringoleese.de
 
 <!--
